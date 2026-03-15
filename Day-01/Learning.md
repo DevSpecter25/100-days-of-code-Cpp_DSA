@@ -2,7 +2,7 @@
 
 ## Concepts Practiced
 - Basic C++ syntax
-- Strings
+- Arrays & Strings
 - For loops
 - Conditional statements
 - ASCII character checks
